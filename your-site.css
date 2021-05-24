@@ -8,24 +8,24 @@ body, html {
 
 .header {
   display: flex; 
-  background-color: #ebc743;
-  width: 100%; 
+/*  background-color: #ebc743;
+*/  width: 100%; 
   text-transform: uppercase;
   color:  #4c4c4a;
 }
 
 .nav {
-  background-color: #585755;
-  overflow: hidden;
+/*  background-color: #585755;
+*/  overflow: hidden;
 }
 
 .nav a {
   float: left;
-  color:  #eae8e1;
-  text-decoration: none;
+/*  color:  #eae8e1;
+*/  text-decoration: none;
   text-align: center;
   padding: 14px 28px;
-  font-size: 18px;
+  font-size: 26px;
 }
 
 .nav a:hover {
@@ -65,6 +65,7 @@ body, html {
 	display: flex; 
 	padding:10px;
 	font-size:18px;
+	color:  #4e3d81;
 }
 
 .main_text {
@@ -96,6 +97,7 @@ body, html {
 	display: flex; 
 	flex-direction: row;
 	font-size: 18px;
+	color:  #4e3d81;
 }
 
 .project_description {
