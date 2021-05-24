@@ -15,27 +15,25 @@ body, html {
 }
 
 .nav {
-/*  background-color: #585755;
-*/  overflow: hidden;
+	overflow: hidden;
 }
 
 .nav a {
   float: left;
-/*  color:  #eae8e1;
-*/  text-decoration: none;
+  text-decoration: none;
   text-align: center;
   padding: 14px 28px;
   font-size: 26px;
 }
 
-.nav a:hover {
+/*.nav a:hover {
   background-color: #9f9f9b;
 }
 
 .nav a.active {
   background-color: #9f9f9b;
   color: black;
-}
+}*/
 
 .main_container {
 	display: flex;
